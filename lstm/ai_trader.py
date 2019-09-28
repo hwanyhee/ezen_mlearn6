@@ -7,7 +7,7 @@ import pandas_datareader as data_reader
 from collections import deque
 from tqdm import tqdm
 
-class AiTrainer:
+class AiTraider:
     def __init__(self):
         pass
 
